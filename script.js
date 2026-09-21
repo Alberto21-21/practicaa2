@@ -1,5 +1,4 @@
-function saludar()  
-return "Hola desde el alumno A"; 
-} 
-{ 
-console.log(saludar());
+function saludar() {
+      return "Hola desde el alumno A y B";
+    }
+    console.log(saludar());
